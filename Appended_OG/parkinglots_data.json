@@ -1,0 +1,16 @@
+{
+    "nyc": [
+        "43rd street",
+        "53rd street",
+        "68th street"
+    ],
+    "sfo": [
+        "221-B Bakers Street",
+        "4 Privet Drive",
+        "Gotham City"
+    ],
+    "austin": [
+        "austin main str",
+        "austin suburb"
+    ]
+}
